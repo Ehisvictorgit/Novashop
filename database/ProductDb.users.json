@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "680b9520ec0c80cd01bdbbf4"
+  },
+  "usr": "REXA2577",
+  "psw": "$2a$11$CapGdW9L.bcY4vKNfj7yA.LOm6ERwhtM9nxasmgQQcpCsBWOgrplS"
+},
+{
+  "_id": {
+    "$oid": "680b9520ec0c80cd01bdbbf5"
+  },
+  "usr": "LSXA2581",
+  "psw": "$2a$11$A5Iy2Wz/xZFnfnD6uLi7HePp.B7MmPok1px96fX7Mhvg90Zuj/bju"
+},
+{
+  "_id": {
+    "$oid": "680be6dc4b12d3b27b806f52"
+  },
+  "usr": "MWXA2582",
+  "psw": "$2a$11$Om4FLpWzKiGIp4lp1oKPLeZfknU5q.BDQci.NUcdnqOiFlTm5i9dK"
+}]
